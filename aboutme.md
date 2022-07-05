@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jay
-subtitle: Why you'd want to go on a date with me
+subtitle: Have a lovely day
 ---
 
 My name is Jay. I have the following qualities:
