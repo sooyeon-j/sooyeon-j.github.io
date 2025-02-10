@@ -8,4 +8,4 @@ What else do you need?
 
 ### Contact
 
-Feel free to get in touch by e-mail if you have any question :D
+Feel free to get in touch by e-mail if you have any question.
